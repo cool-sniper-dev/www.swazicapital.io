@@ -19,7 +19,8 @@
     height: 90px;
     padding: 20px;
     width: 100%;
-    z-index: 1000;
+    z-index: 1;
+    
   }
   #navbarNavAltMarkup > ul > li:nth-child(n) > a{
     color:rgb(10, 49, 23);
